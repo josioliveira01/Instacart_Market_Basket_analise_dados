@@ -40,6 +40,11 @@ Ao aplicar uma técnica de **filtragem por exclusão** no departamento de Hortif
 ## 🚧 Limitações e Futuro
 O algoritmo Apriori trata transações como conjuntos simultâneos. Para exploração futura, recomenda-se o uso da métrica **`add_to_cart_order`** para mapear o funil de decisão em tempo real, identificando gatilhos de consumo e momentos de maior suscetibilidade ao impulso.
 
+## 📄 Documentação Técnica e Estratégica
+Para uma análise detalhada de cada etapa do projeto, incluindo gráficos e planos de ação, acesse o relatório completo:
+
+[![Relatório em PDF](https://img.shields.io/badge/Download-Relat%C3%B3rio_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/josioliveira01/Instacart_Market_Basket_analise_dados/blob/main/Instacart_Documenta%C3%A7%C3%A3o_projeto.pdf)
+
 ## 👤 Autor
 
 **Josiane de Oliveira da Silva**  
