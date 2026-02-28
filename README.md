@@ -1,4 +1,4 @@
-# 🥕 Instacart Market Basket Analysis: Rota dos Consumidores
+# 🥕 Instacart Market Basket Analysis
 
 Este projeto simula o fluxo de trabalho real de um Analista de Dados, utilizando o dataset anonimizado da plataforma **Instacart** disponível no Kaglle. O objetivo central é transformar dados brutos em inteligência de mercado, focando em sazonalidade, retenção e estratégias de recomendação baseadas em afinidade.
 
