@@ -45,10 +45,16 @@ Para uma análise detalhada de cada etapa do projeto, incluindo gráficos e plan
 
 [![Relatório em PDF](https://img.shields.io/badge/Download-Relat%C3%B3rio_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/josioliveira01/Instacart_Market_Basket_analise_dados/blob/main/Instacart_Documenta%C3%A7%C3%A3o_projeto.pdf)
 
-## 📊 Visualização de Dados
+## 📊 Visualização dos Dados
 Os resultados das análises foram consolidados em um dashboard executivo para facilitar a tomada de decisão da equipe de Marketing.
 
 [![Visualizar Dashboard](https://img.shields.io/badge/Acessar-Dashboard_PDF-blue?style=for-the-badge&logo=google-analytics)](https://github.com/josioliveira01/Instacart_Market_Basket_analise_dados/blob/main/dash_supermercado.pdf)
+
+## 🎤 Apresentação (Slides)
+Este documento foi estruturado para uma reunião de tomada de decisão com a equipe de Marketing, traduzindo métricas estatísticas em planos de ação claros.
+
+[![Visualizar Slides](https://img.shields.io/badge/Acessar-Slides_Apresentação-orange?style=for-the-badge&logo=microsoft-powerpoint)](https://github.com/josioliveira01/Instacart_Market_Basket_analise_dados/blob/main/Apresentação_rotas_consumidores.pdf)
+
 
 ## 👤 Autor
 
