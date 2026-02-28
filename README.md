@@ -3,6 +3,7 @@
 Este projeto simula o fluxo de trabalho real de um Analista de Dados, utilizando o dataset anonimizado da plataforma **Instacart** disponível no Kaglle. O objetivo central é transformar dados brutos em inteligência de mercado, focando em sazonalidade, retenção e estratégias de recomendação baseadas em afinidade.
 
 ## 🚀 Objetivos do Projeto
+**Analisar os dados**: Analisar os dados anonimizados de 3 milhões de pedidos de supermercado de mais de 200.000 usuários do Instacart, disponibilizados de forma aberta pelo Instacart.
 **Data Wrangling**: Limpeza e união de múltiplas tabelas relacionais.  
 **Análise Exploratória (EDA)**: Identificação de padrões de sazonalidade e retenção de usuários.  
 **Market Basket Analysis**: Aplicação do algoritmo Apriori para identificar associações de alta afinidade.
