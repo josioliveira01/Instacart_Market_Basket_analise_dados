@@ -38,7 +38,7 @@ Ao aplicar uma técnica de **filtragem por exclusão** no departamento de Hortif
 **Conversão de Cesta**: Exibir atalhos para Laticínios assim que o segundo item de Hortifrúti for adicionado, visando o fechamento da "Cesta Essencial".
 
 ## 🚧 Limitações e Futuro
-O algoritmo Apriori trata transações como conjuntos simultâneos[cite: 336]. [cite_start]Para exploração futura, recomenda-se o uso da métrica **`add_to_cart_order`** para mapear o funil de decisão em tempo real, identificando gatilhos de consumo e momentos de maior suscetibilidade ao impulso.
+O algoritmo Apriori trata transações como conjuntos simultâneos. Para exploração futura, recomenda-se o uso da métrica **`add_to_cart_order`** para mapear o funil de decisão em tempo real, identificando gatilhos de consumo e momentos de maior suscetibilidade ao impulso.
 
 ## 👤 Autor
 
