@@ -1,6 +1,23 @@
 # 🥕 Instacart Market Basket Analysis
+<p align="justify">
+O presente estudo de caso analisou o comportamento de consumo na plataforma Instacart, utilizando uma base de dados anonimizada do Kaggle. O objetivo central consistiu em simular o fluxo de trabalho de um analista de dados, transformando uma base massiva de pedidos em estratégias reais de crescimento e fidelização de usuários. Durante a análise exploratória, identificou-se que os pedidos estavam concentrados aos domingos e segundas-feiras, especialmente no intervalo entre 10h e 16h. Observou-se, ainda, que o perfil de compra recorrente da maioria dos usuários se situou entre 4 e 10 pedidos. Com o intuito de tornar as sugestões do aplicativo mais inteligentes, aplicou-se a técnica de Market Basket Analysis. Verificou-se, por exemplo, que o cliente que adquiriu Maçã Fuji apresentou uma propensão de levar Bananas 88% superior à média da plataforma. Adicionalmente, mapeou-se que 24,6% dos consumidores migraram do departamento de hortifrúti diretamente para o de laticínios. Essa análise fundamentou o desenvolvimento de recomendações assertivas para a equipe de marketing, visando o aumento do faturamento e da satisfação do cliente.
+</p>  
 
-Este projeto simula o fluxo de trabalho real de um Analista de Dados, utilizando o dataset anonimizado da plataforma **Instacart** disponível no Kaglle. O objetivo central é transformar dados brutos em inteligência de mercado, focando em sazonalidade, retenção e estratégias de recomendação baseadas em afinidade.
+## 📄 Documentação Técnica e Estratégica
+Para uma análise detalhada de cada etapa do projeto, incluindo gráficos e planos de ação, acesse o relatório completo:
+
+[![Relatório em PDF](https://img.shields.io/badge/Download-Relat%C3%B3rio_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/josioliveira01/Instacart_Market_Basket_analise_dados/blob/main/An%C3%A1lise_Dados_Instacart.pdf)
+
+## 📊 Visualização dos Dados
+Os resultados das análises foram consolidados em um dashboard executivo para facilitar a tomada de decisão da equipe de Marketing.
+
+[![Visualizar Dashboard](https://img.shields.io/badge/Acessar-Dashboard_PDF-blue?style=for-the-badge&logo=google-analytics)](https://github.com/josioliveira01/Instacart_Market_Basket_analise_dados/blob/main/dash_supermercado.pdf)
+
+## 🎤 Apresentação (Slides)
+Este documento foi estruturado para uma reunião de tomada de decisão com a equipe de Marketing, traduzindo métricas estatísticas em planos de ação claros.
+
+[![Visualizar Slides](https://img.shields.io/badge/Acessar-Slides_Apresentação-orange?style=for-the-badge&logo=microsoft-powerpoint)](https://github.com/josioliveira01/Instacart_Market_Basket_analise_dados/blob/main/Apresentação_rotas_consumidores.pdf)
+
 
 ## 🚀 Objetivos do Projeto
 **Analisar os dados**: Analisar os dados anonimizados de 3 milhões de pedidos de supermercado de mais de 200.000 usuários do Instacart, disponibilizados de forma aberta pelo Instacart.  
@@ -41,20 +58,6 @@ Ao aplicar uma técnica de **filtragem por exclusão** no departamento de Hortif
 ## 🚧 Limitações e Futuro
 O algoritmo Apriori trata transações como conjuntos simultâneos. Para exploração futura, recomenda-se o uso da métrica **`add_to_cart_order`** para mapear o funil de decisão em tempo real, identificando gatilhos de consumo e momentos de maior suscetibilidade ao impulso.
 
-## 📄 Documentação Técnica e Estratégica
-Para uma análise detalhada de cada etapa do projeto, incluindo gráficos e planos de ação, acesse o relatório completo:
-
-[![Relatório em PDF]()](https://github.com/josioliveira01/Instacart_Market_Basket_analise_dados/blob/main/Instacart_Documenta%C3%A7%C3%A3o_projeto.pdf)
-
-## 📊 Visualização dos Dados
-Os resultados das análises foram consolidados em um dashboard executivo para facilitar a tomada de decisão da equipe de Marketing.
-
-[![Visualizar Dashboard](https://img.shields.io/badge/Acessar-Dashboard_PDF-blue?style=for-the-badge&logo=google-analytics)](https://github.com/josioliveira01/Instacart_Market_Basket_analise_dados/blob/main/dash_supermercado.pdf)
-
-## 🎤 Apresentação (Slides)
-Este documento foi estruturado para uma reunião de tomada de decisão com a equipe de Marketing, traduzindo métricas estatísticas em planos de ação claros.
-
-[![Visualizar Slides](https://img.shields.io/badge/Acessar-Slides_Apresentação-orange?style=for-the-badge&logo=microsoft-powerpoint)](https://github.com/josioliveira01/Instacart_Market_Basket_analise_dados/blob/main/Apresentação_rotas_consumidores.pdf)
 
 
 ## 👤 Autor
