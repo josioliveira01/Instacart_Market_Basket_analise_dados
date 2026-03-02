@@ -3,10 +3,10 @@
 O presente estudo de caso analisou o comportamento de consumo na plataforma Instacart, utilizando uma base de dados anonimizada do Kaggle. O objetivo central consistiu em simular o fluxo de trabalho de um analista de dados, transformando uma base massiva de pedidos em estratégias reais de crescimento e fidelização de usuários. Durante a análise exploratória, identificou-se que os pedidos estavam concentrados aos domingos e segundas-feiras, especialmente no intervalo entre 10h e 16h. Observou-se, ainda, que o perfil de compra recorrente da maioria dos usuários se situou entre 4 e 10 pedidos. Com o intuito de tornar as sugestões do aplicativo mais inteligentes, aplicou-se a técnica de Market Basket Analysis. Verificou-se, por exemplo, que o cliente que adquiriu Maçã Fuji apresentou uma propensão de levar Bananas 88% superior à média da plataforma. Adicionalmente, mapeou-se que 24,6% dos consumidores migraram do departamento de hortifrúti diretamente para o de laticínios. Essa análise fundamentou o desenvolvimento de recomendações assertivas para a equipe de marketing, visando o aumento do faturamento e da satisfação do cliente.
 </p>  
 
-## 📄 Documentação Técnica e Estratégica
+## 📄 Documentação Técnica
 Para uma análise detalhada de cada etapa do projeto, incluindo gráficos e planos de ação, acesse o relatório completo:
 
-[![Relatório em PDF](https://img.shields.io/badge/Download-Relat%C3%B3rio_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/josioliveira01/Instacart_Market_Basket_analise_dados/blob/main/An%C3%A1lise_Dados_Instacart.pdf)
+[![Relatório em PDF](https://img.shields.io/badge/Download-Relat%C3%B3rio_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/josioliveira01/Instacart_Market_Basket_analise_dados/blob/d6adaa2116ff51691d2bfe893384df1b66b71873/An%C3%A1lise_Dados_Instacart.pdf)
 
 ## 📊 Visualização dos Dados
 Os resultados das análises foram consolidados em um dashboard executivo para facilitar a tomada de decisão da equipe de Marketing.
