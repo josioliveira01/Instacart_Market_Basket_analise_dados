@@ -44,7 +44,7 @@ O algoritmo Apriori trata transações como conjuntos simultâneos. Para explora
 ## 📄 Documentação Técnica e Estratégica
 Para uma análise detalhada de cada etapa do projeto, incluindo gráficos e planos de ação, acesse o relatório completo:
 
-[![Relatório em PDF](https://github.com/josioliveira01/Instacart_Market_Basket_analise_dados/blob/cc96117070c2c1618f994c68761eba3dcefc86bc/An%C3%A1lise_Dados_Instacart.pdf)
+[![Relatório em PDF]()](https://github.com/josioliveira01/Instacart_Market_Basket_analise_dados/blob/main/Instacart_Documenta%C3%A7%C3%A3o_projeto.pdf)
 
 ## 📊 Visualização dos Dados
 Os resultados das análises foram consolidados em um dashboard executivo para facilitar a tomada de decisão da equipe de Marketing.
